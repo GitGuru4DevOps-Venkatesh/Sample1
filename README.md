@@ -17,5 +17,4 @@ sample-node-app1/
 └── .github/
     └── workflows/
         └── deploy.yaml
-        ```
 
